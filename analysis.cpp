@@ -2,15 +2,13 @@
 //
 // Student name: Moaz Zawra
 //
-// Student number: 200449085
-//
 // Dr. Cory Butz
 //
 // Assignment number: CS 110 Assignment #4
 //
 // Program name: analysis.cpp
 //
-// Last date modified: April 04, 2021
+// Last date modified: June 11, 2025
 //
 // ---------------------------- Problem Statement ------------------------------
 //
