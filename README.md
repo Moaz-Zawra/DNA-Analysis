@@ -22,6 +22,6 @@ C++ program that examines both hemoglobin genes for each of four people, with ea
     geneC2
     geneD1
     geneD2
-    Note: 1 and 2 denote the first and second gene, and A,B,C,D denote people.
+    ** Note: 1 and 2 denote the first and second gene, and A,B,C,D denote people.
 
  - Output: In the output file, (DNAanalysis.txt), it is indicated whether each person is anemic, a carrier, or normal and whether any of the four individuals are related.
